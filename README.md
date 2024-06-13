@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Harshdeep, a third-year engineering student at Maharishi Markandeshwar University, specializing in  coding Node.js applications. I have a strong passion for coding and am proficient in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind, and Mongoose. I am dedicated to continuously improving my skills in backend development.</p>
+<p align="left">I am Harshdeep, a third-year engineering student at Maharishi Markandeshwar University, specializing in  coding MERN applications. I have a strong passion for coding and am proficient in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind, and Mongoose. I am dedicated to continuously improving my skills in backend development.</p>
 
 ###
 
