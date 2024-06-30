@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Rest API | Authentication using JWT | MongoDB | Mongoose | React.js</p>
+<p align="left"> Html | Css | Tailwind | Javascript (ES6) | React.js | Node.js | Express.js | MongoDb | Mongoose | MongoDb Atlas | REST | JWT Auth | React Router Dom | Fetch | Browser Dev tools | Nodemon | Vite | React toastify |  MVC architecture | Document Object Model (Dom) | Debugging  </p>
 
 ###
 
