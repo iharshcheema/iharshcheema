@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Harshdeep, a third-year engineering student at Maharishi Markandeshwar University, specializing in  coding MERN applications. I have a strong passion for coding and am proficient in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind, and Mongoose. I am dedicated to continuously improving my skills in Full-stack development.</p>
+<p align="left">I am Harshdeep, a third-year engineering student at Maharishi Markandeshwar University, specializing in  coding MERN applications. I have a strong passion for coding and am proficient in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind, and Mongoose. I am dedicated to continuously improving my skills in backend development.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Html | Css | Tailwind | Javascript (ES6) | React.js | Redux toolkit | Node.js | Express.js | MongoDb | Mongoose | MongoDb Atlas | REST | JWT Auth | React Router Dom | Fetch | Browser Dev tools | Nodemon | Vite | React toastify |  MVC architecture | Document Object Model (Dom) | Debugging  </p>
+<p align="left">Html | Css | Tailwind | Javascript (ES6) | React.js |  React Router Dom |  Redux toolkit | Node.js | Express.js | MongoDb | Mongoose | MongoDb Atlas | REST | JWT Auth | Postman |  Fetch | Axios | Browser Dev tools | MVC architecture | Document Object Model (Dom) | Debugging</p>
 
 ###
 
@@ -32,6 +32,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
 </div>
 
 ###
